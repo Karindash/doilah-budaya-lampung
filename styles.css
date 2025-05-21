@@ -1,3 +1,19 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1e1e1e;
+    color: #eee;
+  }
+
+  .card, content, aside {
+    background-color: #2a2a2a;
+    color: #fff;
+  }
+
+  .navbar, footer {
+    background-color: #444;
+  }
+}
+
 body {
     font-family: 'Merriweather', serif;
     line-height: 1.6;
